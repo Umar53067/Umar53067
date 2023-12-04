@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Umar53067
+- 👋 Hi, I’m Umar Farooq
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning Javascript, C++
 - 💞️ I’m looking to collaborate on open source projects
