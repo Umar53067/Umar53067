@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Umar Farooq
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning Javascript, C++
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me ...
+- 📫 You can reach me Umar53067@gmail.com
 
 <!---
 Umar53067/Umar53067 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
