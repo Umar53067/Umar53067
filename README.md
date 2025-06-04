@@ -4,7 +4,7 @@ I'm a passionate developer focused on **Web and Mobile App Development**.
 Currently diving deep into **MERN**, and always looking for opportunities to learn and grow.
 
 - 🔭 I’m working on exciting web and mobile projects  
-- 🌱 I’m currently learning **React**  
+- 🌱 I’m currently learning **MERN**  
 - 🤝 I’m open to collaborating on **open source projects** and **freelance gigs**  
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/umar-farooq-ba9611357/)  
 - 😄 Pronouns: **he/him**  
