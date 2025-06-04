@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Umar Farooq
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 You can reach me Umar53067@gmail.com
+Hi there, I'm Umar Farooq 👋
 
-<!---
-Umar53067/Umar53067 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate developer focused on **Web and Mobile App Development**.  
+Currently diving deep into **MERN**, and always looking for opportunities to learn and grow.
+
+- 🔭 I’m working on exciting web and mobile projects  
+- 🌱 I’m currently learning **React**  
+- 🤝 I’m open to collaborating on **open source projects** and **freelance gigs**  
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/umar-farooq-ba9611357/)  
+- 😄 Pronouns: **he/him**  
+- ⚡ Fun fact: I love to read and consume self-development content  
+
+Thanks for visiting my profile! 🚀
